@@ -1,0 +1,66 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap" rel="stylesheet">
+
+
+<h1>BrrSKi</h1>
+<p>Welcome to the world of BrrSKi</p>
+<p>Never Leave it to <b>Chance</b></p>
+<h3>If does not matter</h3>
+<h4>The question is <i>When</i></h4>
+<p>Insta <a href="https://www.instagram.com/brrski_/?hl=en">@BrrSKi</a></p>
+<p>YouTube <a href="https://www.youtube.com/channel/UCw92G1o6EC5CQsFe8rwFAIw">@BrrSKi</a></p>
+<img src="mark.png" alt="an image of mark" width="60" height="60">
+<p>Living for the Future is about the Present</p>
+<img src="trash-mountain.png" alt="a revolution in the skies" width="200" height="400">
+<p>Live Now for the Later</p>
+<video src="trg-6.mov" width="300"height="600" controls>  </video>
+<p>Please go to the <a href="https://www.brrski.com">website</a> it's amazing</p>
+<p>Go to <a href="newPage.html">Page 2</a></p>
+
+<ul>
+<li>Honesty</li>
+ <li>Perserverance</li>
+  <li>Ambition</li>
+</ul>
+
+<style>
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: red;
+  background-color: black;
+}
+</style>
+
+<style>
+  h1 {
+        font-family: "Bungee Tint", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+  }
+</style>
+<style>
+  body {
+    background: black;
+    padding: 30px;
+    text-align: center;
+  }
+</style>
+
+<style>
+  ul {color: red;
+     background-color: black;}
+</style>
+
+<style>
+  h3 {color: red;
+     background-color: black;}
+</style>
+
+<style>
+  h4 {color: red;
+     background-color: black;}
+</style>

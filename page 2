@@ -1,0 +1,21 @@
+<hi>Page 2</hi>
+<p>Welcome to Page 2</p>
+
+<style>
+#funkytext {
+  color: blue;
+}
+</style>
+
+<p>this text is not blue</p>
+<p id="funkytext">this text is blue</p>
+
+<style>
+.serioustext {
+  font-family: fantasy;
+}
+</style>
+
+<h1 class="serioustext">this is a serious header</h1>
+<p>this is a not serious text</p>
+<p class="serioustext">this is a serious text</p>
